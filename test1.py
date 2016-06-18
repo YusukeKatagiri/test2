@@ -7,5 +7,5 @@ x  = arange(-10.0, 10.0, 0.1)
 y = sin(x)
 # x,y を描画
 plot(x,y)
-# 描画
+# 描画するよ
 show()
